@@ -17,6 +17,10 @@ If you havent checked out HacktoberFest, [here](https://hacktoberfest.digitaloce
 - Learn about [open source contributions](https://opensource.guide/how-to-contribute)
 - Star this repo to spread the word :p
 
+### What you should note
+
+- The PRs you give for this repo shall **NOT** be counted towards your PR count. This is just a friendly repo that hels you get started. I seriously recommend solving those first issues that are given in the hacktoberfest main page.
+
 ### Contributors
 
 - [N Praveen Chandhar](https://github.com/gigatesseract)
