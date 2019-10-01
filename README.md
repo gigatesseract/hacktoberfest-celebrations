@@ -19,4 +19,4 @@ If you havent checked out HacktoberFest, [here](https://hacktoberfest.digitaloce
 
 ### Contributors
 
-- [N Praveen Chandhar](https://github.com/gigatesseract)
+- [N Praveen Chandh](https://github.com/gigatesseract)
