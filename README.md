@@ -24,3 +24,4 @@ If you havent checked out HacktoberFest, [here](https://hacktoberfest.digitaloce
 ### Contributors
 
 - [N Praveen Chandhar](https://github.com/gigatesseract)
+- [Vishal Saranathan]()
