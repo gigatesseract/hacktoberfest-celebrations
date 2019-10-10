@@ -19,7 +19,7 @@ If you havent checked out HacktoberFest, [here](https://hacktoberfest.digitaloce
 
 ### What you should note
 
-- The PRs you give for this repo shall **NOT** be counted towards your PR count. This is just a friendly repo that hels you get started. I seriously recommend solving those first issues that are given in the hacktoberfest main page.
+- The PRs you give for this repo shall **NOT** be counted towards your PR count. This is just a friendly repo that helps you get started. I seriously recommend solving those first issues that are given in the hacktoberfest'19 main page.
 
 ### Contributors
 
